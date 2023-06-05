@@ -2,38 +2,35 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://www.charlescampbell.com/",
-    "title": "Charles Campbell Blog & Portfolio",
+    "title": "Charles Campbell's Blog & Portfolio",
     "titleTemplate": "%s · Blog & Portfolio",
     "description": "Charles Campbell's personal website and blog",
     "author": "Charles Campbell",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "My expertise is in backend application development, specifically Java/Spring Boot, NodeJS, and LAMP stack, along with frontend frameworks such as Angular and React.",
     "social": {
       "dribble": "https://dribbble.com/cc5tudio",
       "github": "https://github.com/cc5tudio",
       "medium": "https://medium.com/@cc5tudio",
       "linkedin": "https://www.linkedin.com/in/charlescampbell/",
-      "mail": "mailto:sup@charlescampbell.com"
+      "dev.to": "https://dev.to/cc5tudio",
+      "mail": "mailto:me@charlescampbell.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "charlescampbell.com" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
         "url": "/CharlesCampbellResume.pdf"
       },
-      "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
-      ]
+      "footer": []
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,

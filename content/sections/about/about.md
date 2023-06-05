@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/charlescampbell_1667122511_551.jpeg"
+imageAlt: "Charles Campbell - Engineering Leader"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I have acquired over 20 years of software development and engineering leadership experience in a variety of development environments and platforms. I have a wealth of knowledge in scaling web applications and the entire software development lifecycle.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+My expertise is in backend application development, specifically Java/Spring Boot, NodeJS, and LAMP stack, along with frontend frameworks such as Angular and React.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+In addition to my technical skills I have a wide range of skills developed through the years in planning, design, and managing software engineering teams.  Check out my [LinkedIn](https://www.linkedin.com/en/charlescampbell) profile for more details about my experience.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+In addition, I have experience being a Technical Co-founder of a startup called [Socialvest](https://www.crunchbase.com/organization/socialvest), which raised $1.7M in VC funding and resulted in a successful exit.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I am also concerned with bridging the digital divide with technology integration and technical skills development in underserved communities. I believe its important to pull others up as we continue to climb onward and upward.

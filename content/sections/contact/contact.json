@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Charles Campbell's Portfolio & Blog",
+  "email": "charles@cc5tudio.com",
+  "description": "",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/cc5-logo.png",
+    "alt": "CC Studio Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Dribble", "Instagram", "YouTube"],
     "showIcons": true
   }
 }

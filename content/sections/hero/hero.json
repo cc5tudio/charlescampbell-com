@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Welcome to my digital space",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "I am an  ",
+    "highlight": "entrepreneur, software engineer and writer",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "My expertise is in backend application development, specifically Java/Spring Boot, NodeJS, and LAMP stack. I also have experience with frontend frameworks such as Angular and React.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail","Instagram"],
     "showIcons": false
   }
 }
