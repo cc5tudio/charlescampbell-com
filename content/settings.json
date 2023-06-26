@@ -22,12 +22,12 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Github", "url": "/#contact" }
+        { "label": "Articles", "url": "https://medium.com/@cc5tudio" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Download My Resume",
         "url": "/CharlesCampbellResume.pdf"
       },
       "footer": []
