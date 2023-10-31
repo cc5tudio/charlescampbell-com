@@ -11,9 +11,9 @@
     "social": {
       "dribble": "https://dribbble.com/cc5tudio",
       "github": "https://github.com/cc5tudio",
-      "medium": "https://medium.com/@cc5tudio",
+      "medium": "https://medium.com/@charlescampbell599",
       "linkedin": "https://www.linkedin.com/in/charlescampbell/",
-      "dev.to": "https://dev.to/cc5tudio",
+      "dev.to": "https://dev.to/charlescampbell5",
       "mail": "mailto:me@charlescampbell.com"
     }
   },
@@ -22,7 +22,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Articles", "url": "https://medium.com/@cc5tudio" },
+        { "label": "Articles", "url": "https://medium.com/@charlescampbell599" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
